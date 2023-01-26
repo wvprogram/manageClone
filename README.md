@@ -1,1 +1,1 @@
-# manageClone
+# Manage Landing Page Clone
